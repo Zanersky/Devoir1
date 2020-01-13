@@ -1,0 +1,9 @@
+arrow@DESKTOP-21AIDEF MINGW64 ~
+$ mkdir ~/Devoir1
+
+arrow@DESKTOP-21AIDEF MINGW64 ~
+$ cd ~/Devoir1
+
+arrow@DESKTOP-21AIDEF MINGW64 ~/Devoir1
+$ git init
+Initialized empty Git repository in C:/Users/arrow/Devoir1/.git/
